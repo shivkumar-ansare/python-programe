@@ -91,3 +91,7 @@ for num in num_list:
 str_x ="shiv is a good dev.shiv is writer."
 cnt=str_x.count("shiv")
 print(cnt)
+
+# p7: question
+print("shiv")
+
